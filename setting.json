@@ -1,46 +1,46 @@
 {
-    "title": "Auroraの主页",
+    "title": "juzisyrupの主页",
     "description": "一个默默无闻的主页",
-    "keywords": "Aurora,个人主页",
-    "author": "Aurora",
+    "keywords": "juzisyrup,个人主页",
+    "author": "juzisyrup",
     "logo_img": "./img/icon/avatar.jpg",
     "logo_text_1": "juzisyrup",
     "logo_text_2": "top",
-    "github": "wuhobin",
+    "github": "juzisyrup",
     "qq": "1372304135",
     "email": "juzisyrup@google.com",
     "bilibili": "580526120",
     "facebook": "bottom_user",
     "link_1": [
-        "",
+        "https://juzisyrup.github.io/",
         "fa-solid fa-blog",
-        "博客"
+        "回转本页面"
     ],
     "link_2": [
         "https://tongji.baidu.com/",
         "fa-solid fa-cloud",
-        "统计"
-    ],
-    "link_3": [
-        "http://www.wuhobin.top/",
-        "fa-solid fa-compass",
         "百度冲浪"
     ],
+    "link_3": [
+        "https://y.qq.com/n/ryqq/playlist/9184739085",
+        "fa-solid fa-compass",
+        "看看歌单"
+    ],
     "link_4": [
-        "https://codenote.wuhobin.top",
+        "https://juzisyrup.github.io/",
         "fa-solid fa-book-bookmark",
-        "编程宝典"
+        "回到起始页"
     ],
     "link_5": [
-        "http://www.wuhobin.top/",
+        "https://ak.hypergryph.com/",
         "fa-solid fa-flask",
-        "开发中..."
+        "明日方舟启动！"
     ],
     "link_6": [
-        "http://www.wuhobin.top/",
+        "https://www.bilibili.com/video/BV1iS42197dV",
         "fa-solid fa-flask",
-        "敬请期待..."
+        "原神？狗都不玩"
     ],
-    "Copyright_text": "Aurora",
+    "Copyright_text": "juzisyrup",
     "beian": "鄂ICP备20006685号"
 }
