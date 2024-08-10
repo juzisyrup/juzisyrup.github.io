@@ -270,7 +270,7 @@ $("#telegram").mouseover(function () {
 let myDate = new Date;
 let mon = myDate.getMonth() + 1;
 let date = myDate.getDate();
-let days = ['4.4', '5.12', '7.7', '9.9', '9.18', '12.13'];
+let days = ['4.4', '5.12', '7.7', '9.9', '8.10', '9.18', '12.13'];
 for (let day of days) {
     let d = day.split('.');
     if (mon == d[0] && date == d[1]) {
