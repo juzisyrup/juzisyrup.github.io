@@ -14,12 +14,12 @@
     "link_1": [
         "https://juzisyrup.github.io/",
         "fa-solid fa-blog",
-        "回转本页面"
+        "刷新本页面"
     ],
     "link_2": [
-        "https://tongji.baidu.com/",
+        "https://www.microsoft.com/zh-cn/edge/download",
         "fa-solid fa-cloud",
-        "百度冲浪"
+        "推荐使用edge浏览器"
     ],
     "link_3": [
         "https://y.qq.com/n/ryqq/playlist/9184739085",
@@ -27,9 +27,9 @@
         "看看歌单"
     ],
     "link_4": [
-        "https://juzisyrup.github.io/",
+        "https://github.com/juzisyrup/juzisyrup.github.io",
         "fa-solid fa-book-bookmark",
-        "回到起始页"
+        "查看网站源代码"
     ],
     "link_5": [
         "https://ak.hypergryph.com/",
@@ -37,9 +37,9 @@
         "明日方舟启动！"
     ],
     "link_6": [
-        "https://www.bilibili.com/video/BV1iS42197dV",
+        "https://pan.baidu.com/s/1xGtPM7hSc-ClQa2HlSlmbg?pwd=hfpj",
         "fa-solid fa-flask",
-        "原神？狗都不玩"
+        "互联网扫盲试卷"
     ],
     "Copyright_text": "juzisyrup",
     "beian": "鄂ICP备20006685号"
