@@ -5,7 +5,7 @@
 简单的小主页，原来的看够了，重新弄了一个
 </p>
 
-![juzisyrupの主页](https://juzisyrup.github.io/)
+Here is the[juzisyrupの主页](https://juzisyrup.github.io/)
 
 [完整字体下载](https://file.imsyy.top/font/Pacifico-Regular.ttf)
 
