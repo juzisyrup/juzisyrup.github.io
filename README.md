@@ -5,15 +5,15 @@
 简单的小主页，原来的看够了，重新弄了一个
 </p>
 
-![Auroraの主页](https://s2.loli.net/2022/07/14/K5JigfvDoNewtuS.webp)
+![juzisyrupの主页](https://juzisyrup.github.io/)
 
->主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体，这里是 [完整字体](https://file.imsyy.top/font/Pacifico-Regular.ttf)
+[完整字体下载](https://file.imsyy.top/font/Pacifico-Regular.ttf)
 
 ### Demo
 
 >由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
-- [Auroraの主页](http://www.wuhobin.top)
+- [juzisyrupの主页](https://juzisyrup.github.io/)
 
 
 ### 功能
@@ -51,7 +51,7 @@
     "title": "网页标题",
     "description": "网页简短介绍",
     "keywords": "网页关键词",
-    "author": "网页作者",
+    "juzisyrup": "网页作者",
     "logo_img": "Logo图片路径",
     "logo_text_1": "域名前缀",
     "logo_text_2": "域名后缀",
