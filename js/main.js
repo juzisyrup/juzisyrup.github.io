@@ -1,9 +1,4 @@
-/*
-作者: imsyy
-主页：https://www.imsyy.top/
-GitHub：https://github.com/imsyy/home
-版权所有，请勿删除
-*/
+
 
 //弹窗样式
 iziToast.settings({
@@ -261,9 +256,9 @@ $("#bilibili").mouseover(function () {
     $("#link-text").html("通过这里联系我");
 });
 $("#telegram").mouseover(function () {
-    $("#link-text").html("你懂的 ~");
+    $("#link-text").html("暂不可使用facebook ~");
 }).mouseout(function () {
-    $("#link-text").html("通过这里联系我");
+    $("#link-text").html("facebook被封啦");
 });
 
 //自动变灰
