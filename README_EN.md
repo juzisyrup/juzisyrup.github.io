@@ -5,15 +5,13 @@ English | [Chinese](./README.md)
 Simple little homepage, had enough of the original one and made a new one
 </p>
 
-![Auroraの主页](https://s2.loli.net/2022/07/14/K5JigfvDoNewtuS.webp)
-
->The logo font on the home page has been compressed, so if you use a font other than this logo, it will change back to the default font, Here is the [full font](https://file.imsyy.top/font/Pacifico-Regular.ttf)  
+> Here is the [full font](https://file.imsyy.top/font/Pacifico-Regular.ttf)  
 
 ### Demo
 
 >Due to CDN caching, you may need `Ctrl` + `F5` to force a browser cache refresh to see the latest results
 
-- [Auroraの主页](http://www.wuhobin.top)
+- [juzisyrupの主页](https://juzisyrup.github.io/)
 
 
 ### Functions
